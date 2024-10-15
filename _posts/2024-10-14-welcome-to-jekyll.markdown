@@ -7,4 +7,4 @@ date:   2024-10-14 19:37:33 -0700
 
 Hi
 
-![Wukong](/assets/images/Wukong.JPG)
+![Wukong]({{ site.baseurl }}/assets/images/Wukong.JPG)
